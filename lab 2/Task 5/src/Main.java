@@ -21,8 +21,6 @@ public class Main {
                     System.out.println("Выход из программы...");
                     exit = true;
                     break;
-                default:
-                    System.out.println("Неверный выбор. Попробуйте снова.");
             }
         }
         scanner.close();
